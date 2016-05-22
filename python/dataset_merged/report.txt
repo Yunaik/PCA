@@ -1,0 +1,254 @@
+============================
+ Processing year 2004
+In total 0 errors
+In total 601 variables.
+Year variables: 189
+Non year variables: 412
+============================
+ Processing year 2005
+In total 0 errors
+In total 700 variables.
+Year variables: 231
+Non year variables: 469
+============================
+ Processing year 2006
+Error at file M1301e.xls
+Error at file O1508e.xls
+In total 2 errors
+In total 775 variables.
+Year variables: 244
+Non year variables: 531
+============================
+ Processing year 2007
+Error at file M1301e.xls
+Error at file O1508e.xls
+Error at file V2224e.xls
+In total 3 errors
+In total 773 variables.
+Year variables: 240
+Non year variables: 533
+============================
+ Processing year 2008
+Error at file M1201e.xls
+Error at file O1408e.xls
+Error at file R1709e.xls
+Error at file X2407e.xls
+Error at file Z2509e.xls
+Error at file Z2519e.xls
+In total 6 errors
+In total 767 variables.
+Year variables: 233
+Non year variables: 534
+============================
+ Processing year 2009
+Error at file M1201e.xls
+Error at file O1408e.xls
+Error at file R1709e.xls
+Error at file X2407e.xls
+In total 4 errors
+In total 804 variables.
+Year variables: 244
+Non year variables: 560
+============================
+ Processing year 2010
+Error at file M1301e.xls
+Error at file O1508e.xls
+Error at file X2407e.xls
+In total 3 errors
+In total 797 variables.
+Year variables: 219
+Non year variables: 578
+============================
+ Processing year 2011
+Error at file E0402e.xls
+Error at file E0405e.xls
+Error at file E0406e.xls
+Error at file E0411e.xls
+Error at file E0412e.xls
+Error at file E0413e.xls
+Error at file E0414e.xls
+Error at file E0415e.xls
+Error at file E0416e.xls
+Error at file E0417e.xls
+Error at file M1301e.xls
+Error at file O1508e.xls
+Error at file P1601e.xls
+Error at file V2146e.xls
+Error at file X2507e.xls
+In total 15 errors
+In total 806 variables.
+Year variables: 217
+Non year variables: 589
+============================
+ Processing year 2012
+Error at file E0402e.xls
+Error at file E0410e.xls
+Error at file E0412e.xls
+Error at file E0413e.xls
+Error at file E0414e.xls
+Error at file E0415e.xls
+Error at file E0416e.xls
+Error at file M1301e.xls
+Error at file O1507e.xls
+Error at file P1601e.xls
+Error at file V2123e.xls
+Error at file V2126e.xls
+Error at file V2128e.xls
+Error at file V2129e.xls
+Error at file V2130e.xls
+Error at file W2341e.xls
+Error at file X2507e.xls
+Error at file Z2613e.xls
+In total 18 errors
+In total 790 variables.
+Year variables: 190
+Non year variables: 600
+============================
+ Processing year 2013
+Error at file Z0402E.xls
+Error at file Z0404E.xls
+Error at file Z0405E.xls
+Error at file Z0410E.xls
+Error at file Z0411E.xls
+Error at file Z0412E.xls
+Error at file Z0413E.xls
+Error at file Z0414E.xls
+Error at file Z0415E.xls
+Error at file Z0416E.xls
+Error at file Z1301E.xls
+Error at file Z1601E.xls
+Error at file Z2342E.xls
+Error at file Z2713E.xls
+In total 14 errors
+In total 726 variables.
+Year variables: 216
+Non year variables: 510
+=======================
+ Total errors: 65
+============================
+ Processing year 2004
+In total 0 errors
+In total 601 variables.
+Year variables: 189
+Non year variables: 412
+============================
+ Processing year 2005
+In total 0 errors
+In total 700 variables.
+Year variables: 231
+Non year variables: 469
+============================
+ Processing year 2006
+Error at file M1301e.xls
+Error at file O1508e.xls
+In total 2 errors
+In total 775 variables.
+Year variables: 244
+Non year variables: 531
+============================
+ Processing year 2007
+Error at file M1301e.xls
+Error at file O1508e.xls
+Error at file V2224e.xls
+In total 3 errors
+In total 773 variables.
+Year variables: 240
+Non year variables: 533
+============================
+ Processing year 2008
+Error at file M1201e.xls
+Error at file O1408e.xls
+Error at file R1709e.xls
+Error at file X2407e.xls
+Error at file Z2509e.xls
+Error at file Z2519e.xls
+In total 6 errors
+In total 767 variables.
+Year variables: 233
+Non year variables: 534
+============================
+ Processing year 2009
+Error at file M1201e.xls
+Error at file O1408e.xls
+Error at file R1709e.xls
+Error at file X2407e.xls
+In total 4 errors
+In total 804 variables.
+Year variables: 244
+Non year variables: 560
+============================
+ Processing year 2010
+Error at file M1301e.xls
+Error at file O1508e.xls
+Error at file X2407e.xls
+In total 3 errors
+In total 797 variables.
+Year variables: 219
+Non year variables: 578
+============================
+ Processing year 2011
+Error at file E0402e.xls
+Error at file E0405e.xls
+Error at file E0406e.xls
+Error at file E0411e.xls
+Error at file E0412e.xls
+Error at file E0413e.xls
+Error at file E0414e.xls
+Error at file E0415e.xls
+Error at file E0416e.xls
+Error at file E0417e.xls
+Error at file M1301e.xls
+Error at file O1508e.xls
+Error at file P1601e.xls
+Error at file V2146e.xls
+Error at file X2507e.xls
+In total 15 errors
+In total 806 variables.
+Year variables: 217
+Non year variables: 589
+============================
+ Processing year 2012
+Error at file E0402e.xls
+Error at file E0410e.xls
+Error at file E0412e.xls
+Error at file E0413e.xls
+Error at file E0414e.xls
+Error at file E0415e.xls
+Error at file E0416e.xls
+Error at file M1301e.xls
+Error at file O1507e.xls
+Error at file P1601e.xls
+Error at file V2123e.xls
+Error at file V2126e.xls
+Error at file V2128e.xls
+Error at file V2129e.xls
+Error at file V2130e.xls
+Error at file W2341e.xls
+Error at file X2507e.xls
+Error at file Z2613e.xls
+In total 18 errors
+In total 790 variables.
+Year variables: 190
+Non year variables: 600
+============================
+ Processing year 2013
+Error at file Z0402E.xls
+Error at file Z0404E.xls
+Error at file Z0405E.xls
+Error at file Z0410E.xls
+Error at file Z0411E.xls
+Error at file Z0412E.xls
+Error at file Z0413E.xls
+Error at file Z0414E.xls
+Error at file Z0415E.xls
+Error at file Z0416E.xls
+Error at file Z1301E.xls
+Error at file Z1601E.xls
+Error at file Z2342E.xls
+Error at file Z2713E.xls
+In total 14 errors
+In total 726 variables.
+Year variables: 216
+Non year variables: 510
+=======================
+ Total errors: 65
